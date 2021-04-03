@@ -1,0 +1,21 @@
+{
+    "name": "new-dark-plus",
+    "displayName": "New Dark Plus",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "New Dark Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/New Dark Plus-color-theme.json"
+            }
+        ]
+    }
+}
